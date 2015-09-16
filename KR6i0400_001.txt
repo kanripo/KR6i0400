@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:05.771405
+#+DATE: 2015-08-30 20:18:06.353564
 #+TITLE: 了本生死經
 #+PROPERTY: CBETA_ID T16n0708
 #+PROPERTY: ID KR6i0400
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 708
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6i0400_T_001-0815b> 
 #+PROPERTY: JUAN 1
 ¶
-No.708[Nos.709-712]¶
-
- 《了本生死經》¶
+No. 708 [Nos. 709-712]¶
+《了本生死經》¶
 ¶
 吳月氏優婆塞支謙譯¶
 
@@ -95,7 +94,7 @@ No.708[Nos.709-712]¶
 非男，非人，非士，非身，非身所，非人生，非少¶
 年，非作、無作者，非住、無住者，非智、無智者，¶
 非眾生，非吾，非我，非我有、無有主。如是但¶
-從六種為一想，為合想，為女想，為男想，為¶
+從六種為自想，為合想，為女想，為男想，為¶
 妄想，為身想，為自在想，為強自在，受若¶
 干種，故為不明。時說曰性癡，淨、常想、樂想、¶
 身想，疑嫌妄，非上要。佛說是不明，亦為染¶
