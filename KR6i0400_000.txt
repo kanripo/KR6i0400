@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 了本生死經
+#+DATE: 2015-08-30 20:18:05.946645
+#+PROPERTY: JUAN 0
